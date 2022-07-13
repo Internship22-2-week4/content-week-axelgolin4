@@ -66,7 +66,7 @@ Entregar:
 - Capturas del funcionamiento del codigo. 
 
 ## Ejercicio en ejecucion
-![img](asserts\imagen1.PNG)
+![img](.\asserts\imagen1.PNG)
 
 ## Diagrama de clases
-![img](asserts\imangen.png)
+![img](.\asserts\imangen.png)
